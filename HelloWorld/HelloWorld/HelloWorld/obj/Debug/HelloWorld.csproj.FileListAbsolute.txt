@@ -1,0 +1,6 @@
+D:\_Darkspace\GIT\CLR_C_Sharp\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\_Darkspace\GIT\CLR_C_Sharp\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\_Darkspace\GIT\CLR_C_Sharp\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\_Darkspace\GIT\CLR_C_Sharp\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\_Darkspace\GIT\CLR_C_Sharp\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\_Darkspace\GIT\CLR_C_Sharp\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
