@@ -26,3 +26,16 @@ Commands
 > ildasm	mytype..netmodule
 
 ------
+
+#4 StrongNameUtility
+
+Create a public-Private key pair with your company name
+> SN -k zzcompany.snk
+
+Extract the public key from the .snk file
+> SN -p zzcompany.snk zzcopmany.PublicKey sha256
+
+using -tp switch to extract the public key from the binary format 
+> SN -tp zzcopmany.PublicKey
+
+------
