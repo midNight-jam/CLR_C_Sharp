@@ -1,0 +1,4 @@
+# Response files support comments.
+#/r: MSCorLib.dll
+/out: myApp.exe zztype.cs first.cs
+/target: exe

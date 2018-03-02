@@ -1,0 +1,2 @@
+/out: myApp.exe zztype.cs first.cs
+/target: exe
