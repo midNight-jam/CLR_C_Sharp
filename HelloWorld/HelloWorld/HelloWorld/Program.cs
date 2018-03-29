@@ -1,4 +1,7 @@
 ﻿using System;
+//using System.Collections;
+using System.Collections.Generic;
+
 
 namespace HelloWorld
 {
@@ -9,6 +12,7 @@ namespace HelloWorld
             Console.WriteLine("HelloWord");
             string line = Console.ReadLine();
             Console.WriteLine("Line : " + line);
+            IList<int> list = new List<int>();
         }
     }
 }

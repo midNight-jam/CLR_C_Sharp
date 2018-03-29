@@ -17,7 +17,7 @@ Commands
 
 > csc.exe  	/t:module 	MyType.cs
 
-------
+------idl
 
 #3 Disassembler
 
@@ -38,4 +38,8 @@ Extract the public key from the .snk file
 using -tp switch to extract the public key from the binary format 
 > SN -tp zzcopmany.PublicKey
 
+------
+
+Try following the sections from here
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index
 ------
