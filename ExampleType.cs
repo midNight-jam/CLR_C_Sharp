@@ -2,7 +2,19 @@ using System;
 
 namespace dark{
   //An Example of all the possible members in a Type
+  // Member Accessibilities 
   
+  /*
+            C# term       |   Visibility
+          ----------------|--------------
+            private       |   accessible only to methods defined in Same Type or any Nested Type
+            protected     |   accessible only to methods defined in Same Type or any Nested Type or 
+                              one of its derived types WITHOUT regard to Assembly
+            internal      |   accessible only to methods in the defining Assembly
+      protected internal  |   accessible by any nested Type, derived Type regardless of Assembly or
+                              to any methods in the defining assembly
+            public        |   accessible to all methods in all assembly 
+  */
   public sealed class SomeType{
 
     //Nested Class
